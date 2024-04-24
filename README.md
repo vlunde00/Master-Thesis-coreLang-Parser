@@ -1,6 +1,6 @@
 # Master-Thesis-coreLang-Parser
 
-A coreLang parser that is made for a master thesis about automated threat modelling in a medical system.
+A coreLang parser was made during the writing of a master thesis about automated threat modelling in a medical system.
 
 The parser works for a .json file system specifications file of the Getinge Servo TwinView that can not be provided here due to it being proprietary to Getinge. This parser
 can serve as an inspiration to similar parsers for other .json file system specifications. 
